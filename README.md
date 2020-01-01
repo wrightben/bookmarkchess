@@ -5,3 +5,7 @@ The original version of this GitHub repo hosted the code for BookmarkChess. I de
 BookmarkChess was influenced by Yahoo! Chess, Chessmaster, and xboard. See the photos for pedigree.
 
 See [BookmarkChess](https://youtu.be/wQLXnEwzpYo?t=151) on YouTube
+
+----
+
+I wrote the HTML5 chessboard and the board constraints. I used Stockfish for the chess engine and to generate chess puzzles. I used Google's Firebase (web sockets) for real-time game play.
