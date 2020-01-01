@@ -6,3 +6,5 @@ The original version of this GitHub repo hosted the code for BookmarkChess. I de
 See the photos for pedigree.
 
 BookmarkChess was influenced by Yahoo! Chess, Chessmaster, and xboard.
+
+See it on YouTube: [https://youtu.be/wQLXnEwzpYo?t=151](BookmarkChess)
