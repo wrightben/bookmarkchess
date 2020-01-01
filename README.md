@@ -7,4 +7,4 @@ See the photos for pedigree.
 
 BookmarkChess was influenced by Yahoo! Chess, Chessmaster, and xboard.
 
-See it on YouTube: [https://youtu.be/wQLXnEwzpYo?t=151](BookmarkChess)
+See it on YouTube: [BookmarkChess](https://youtu.be/wQLXnEwzpYo?t=151)
