@@ -1,6 +1,6 @@
 # BookmarkChess (2012)
 
-The original version of this GitHub repo hosted the code for BookmarkChess.
+The original version of this GitHub repo hosted the code for [BookmarkChess](https://youtu.be/wQLXnEwzpYo?t=151).
 
 * ecomware, inc: HTML5 chessboard and the board constraints
 * Stockfish: chess engine, chess puzzles
