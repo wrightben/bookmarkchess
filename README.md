@@ -5,8 +5,8 @@ The original version of this repo hosted the code for [BookmarkChess](https://yo
 ![BookmarkChess](https://github.com/wrightben/bookmarkchess/blob/master/Screen%20Shot%202020-01-01%20at%207.40.41%20AM.png)
 
 
-**BookmarkChess**
-ecomware, inc - Highland, MI
+**BookmarkChess**<br />
+ecomware, inc - Highland, MI<br />
 Dec 2012 to Dec 2013
 * UI Development ( HTML5 chessboard, game logic )
 * Collaboration with Everyman Chess ( content )
