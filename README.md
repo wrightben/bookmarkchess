@@ -1,5 +1,7 @@
 # BookmarkChess (2012)
 
+![BookmarkChess](https://github.com/wrightben/bookmarkchess/blob/master/Screen%20Shot%202020-01-01%20at%207.40.41%20AM.png)
+
 **BookmarkChess**<br />
 ecomware, inc - Highland, MI<br />
 Dec 2012 to Dec 2013
@@ -10,7 +12,5 @@ Dec 2012 to Dec 2013
 
 BookmarkChess inspired the HTML5 boards now used by Lichess.org and others. See [BookmarkChess](https://youtu.be/wQLXnEwzpYo?t=151) on YouTube.
 
-<br ></br>
-![BookmarkChess](https://github.com/wrightben/bookmarkchess/blob/master/Screen%20Shot%202020-01-01%20at%207.40.41%20AM.png)
 
 The original version of this repo hosted the code for [BookmarkChess](https://youtu.be/wQLXnEwzpYo?t=151).
