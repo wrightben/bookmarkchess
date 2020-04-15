@@ -3,7 +3,7 @@
 ![BookmarkChess](https://github.com/wrightben/bookmarkchess/blob/master/Screen%20Shot%202020-01-01%20at%207.40.41%20AM.png)
 
 **BookmarkChess**<br />
-ecomware, inc - Highland, MI<br />
+ecomware, inc<br />
 Dec 2012 to Dec 2013
 * UI Development ( HTML5 chessboard, game logic )
 * Collaboration with Everyman Chess ( content )
