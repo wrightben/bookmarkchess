@@ -6,7 +6,7 @@
 ecomware, inc<br />
 Dec 2012 to Dec 2013
 * UI Development ( HTML5 chessboard, game logic )
-* Collaboration with Everyman Chess ( content )
+* Collaboration with [Everyman Chess](https://everymanchess.com/) ( content )
 * Pitch to USA Today and New York Times ( embedded chess puzzles )
 * Sockets: Firebase; Chess engine: Stockfish
 
