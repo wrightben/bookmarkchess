@@ -10,4 +10,4 @@ Dec 2012 to Dec 2013
 * Pitch to USA Today and New York Times ( embedded chess puzzles )
 * Sockets: Firebase; Chess engine: Stockfish
 
-BookmarkChess was the first HTML-valid, fully functional, real-time, browser-based, mobile-friendly chessboard. It inspired the HTML5 boards now used by Lichess.org and others. See [BookmarkChess](https://youtu.be/wQLXnEwzpYo?t=151) on YouTube.
+BookmarkChess offered the first HTML-valid, fully functional, real-time, browser-based, mobile-friendly chessboard. It inspired the HTML5 boards now used by Lichess.org and others. See [BookmarkChess](https://youtu.be/wQLXnEwzpYo?t=151) on YouTube.
