@@ -1,6 +1,6 @@
 # BookmarkChess
 
-![BookmarkChess](https://github.com/wrightben/bookmarkchess/blob/master/Screen%20Shot%202020-01-01%20at%207.40.41%20AM.png)
+[![BookmarkChess](https://github.com/wrightben/bookmarkchess/blob/master/Screen%20Shot%202020-01-01%20at%207.40.41%20AM.png)](https://youtu.be/wQLXnEwzpYo?t=151)
 
 **BookmarkChess**<br />
 ecomware, inc<br />
